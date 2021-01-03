@@ -1,0 +1,20 @@
+{
+  "temperature": {
+    "value": 4.92,
+    "min": 0.0,
+    "max": 9.44,
+    "unit": "celsius"
+  },
+  "wind": {
+    "speed": {
+      "value": 3.35,
+      "unit": "Km/h",
+      "name": "Calm"
+    },
+    "direction": {
+      "value": 23,
+      "code": "NNE",
+      "name": "North-northeast"
+    }
+  }
+}
